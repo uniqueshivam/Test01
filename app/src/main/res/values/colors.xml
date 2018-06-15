@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="White">#ffff</color>
+    <color name="splash">#1F2438</color>
+    <color name="Home_primary">	#262A47</color>
+    <color name="Home_Backgroud">#424242</color>
+    <color name="Question_colour">#212121</color>
+    <color name="Answer_colour">#33691E</color>
+</resources>
